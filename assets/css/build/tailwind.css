@@ -928,10 +928,6 @@ video {
   width: 1265px;
 }
 
-.w-96 {
-  width: 24rem;
-}
-
 .w-\[800px\] {
   width: 800px;
 }
@@ -1439,11 +1435,6 @@ video {
   background-color: rgba(196, 196, 196, var(--tw-bg-opacity));
 }
 
-.bg-\[\#ee9b00\] {
-  --tw-bg-opacity: 1;
-  background-color: rgba(238, 155, 0, var(--tw-bg-opacity));
-}
-
 .bg-\[\#323C4E\] {
   --tw-bg-opacity: 1;
   background-color: rgba(50, 60, 78, var(--tw-bg-opacity));
@@ -1693,10 +1684,6 @@ video {
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-
-.text-\[50px\] {
-  font-size: 50px;
 }
 
 .text-\[2\.23rem\] {
